@@ -1,0 +1,1 @@
+def call(String app) { echo "ALERT: ${app} failed - ${env.BUILD_URL}" }
